@@ -1,6 +1,6 @@
 {
   "mappings": [
-    "/content/aem-boilerplate/:/",
-    "/content/aem-boilerplate/configuration:/.helix/config.json"
+    "/content/vv-crosswalk/:/",
+    "/content/vv-crosswalk/configuration:/.helix/config.json"
   ]
 }
